@@ -1,4 +1,4 @@
-# Awesome4Laptop
+# Awesome_WM_Laptop
 
 Installation:
 
@@ -8,4 +8,3 @@ Installation:
 
 ![Alt text](clean.png?raw=true "Title")
 ![Alt text](dirty.png?raw=true "Title")
-# Awesome_WM_Laptop
